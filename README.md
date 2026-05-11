@@ -1,2 +1,0 @@
-# tty
-Exported from Polaris
